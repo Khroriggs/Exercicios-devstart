@@ -1,0 +1,2 @@
+let cidade = "Florianópolis"
+console.log(cidade)
